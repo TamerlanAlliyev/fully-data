@@ -1,6 +1,150 @@
 {
     "products": [
         {
+            "id": 21,
+            "brand": "Nike",
+            "brandTitle": "nike",
+            "productCategory": "shoes",
+            "productName": "sport-shoes",
+            "title": "nike-sport-shoes",
+            "color": "black",
+            "price": 570,
+            "discountOffer": false,
+            "discount": 0,
+            "size": {
+                "36": 1,
+                "36.5": 1,
+                "37": 2,
+                "37.5": 5,
+                "38": 2,
+                "38.5": 8,
+                "39": 9,
+                "39.5": 5,
+                "40": 1,
+                "40.5": 2,
+                "41": 9,
+                "41.5": 10,
+                "42": 11,
+                "42.5": 0,
+                "43": 0,
+                "43.5": 5,
+                "44": 7,
+                "44.5": 3,
+                "45": 2
+            },
+            "image": [
+                "assets/images/products/nike/sport-shoes-two-1.jpg",
+                "assets/images/products/nike/sport-shoes-two-2.jpg",
+                "assets/images/products/nike/sport-shoes-two-3.jpg",
+                "assets/images/products/nike/sport-shoes-two-4.jpg",
+                "assets/images/products/nike/sport-shoes-two-5.jpg",
+                "assets/images/products/nike/sport-shoes-two-6.jpg",
+                "assets/images/products/nike/sport-shoes-two-7.jpg",
+                "assets/images/products/nike/sport-shoes-two-8.jpg",
+                "assets/images/products/nike/sport-shoes-two-9.jpg"
+            ],
+            "description": "Hər yerdə öz oyununu götür. NoCTA Hot Step Air Terra, hoops-dan izlərə qədər fürsət gətirir. Quilted panellər premium dəri ilə təchiz olunub. Etibarlı Air cushioning performans rahatlığı verir. 1990-ci ildə 1996-ci ildə bakıda anadan olub."
+        },
+        {
+            "id": 22,
+            "brand": "Nike",
+            "brandTitle": "nike",
+            "productCategory": "shoes",
+            "productName": "sport-shoes",
+            "title": "nike-sport-shoes",
+            "color": "beige",
+            "price": 570,
+            "discountOffer": false,
+            "discount": 0,
+            "size": {
+                "36": 1,
+                "36.5": 1,
+                "37": 2,
+                "37.5": 5,
+                "38": 2,
+                "38.5": 8,
+                "39": 9,
+                "39.5": 5,
+                "40": 1,
+                "40.5": 2,
+                "41": 9,
+                "41.5": 10,
+                "42": 11,
+                "42.5": 0,
+                "43": 0,
+                "43.5": 5,
+                "44": 7,
+                "44.5": 3,
+                "45": 2
+            },
+            "image": [
+                "assets/images/products/nike/sport-shoes-three-1.jpg",
+                "assets/images/products/nike/sport-shoes-three-2.jpg",
+                "assets/images/products/nike/sport-shoes-three-3.jpg",
+                "assets/images/products/nike/sport-shoes-three-4.jpg",
+                "assets/images/products/nike/sport-shoes-three-5.jpg",
+                "assets/images/products/nike/sport-shoes-three-6.jpg",
+                "assets/images/products/nike/sport-shoes-three-7.jpg",
+                "assets/images/products/nike/sport-shoes-three-8.jpg",
+                "assets/images/products/nike/sport-shoes-three-9.jpg"
+            ],
+            "description": "Hər yerdə öz oyununu götür. NoCTA Hot Step Air Terra, hoops-dan izlərə qədər fürsət gətirir. Quilted panellər premium dəri ilə təchiz olunub. Etibarlı Air cushioning performans rahatlığı verir. 1990-ci ildə 1996-ci ildə bakıda anadan olub."
+        },
+        {
+            "id": 23,
+            "brand": "Emporio Armani",
+            "brandTitle": "emporio-armani",
+            "productCategory": "clothing",
+            "productName": "t-shirt",
+            "title": "emporio-armani-t-shirt",
+            "size": {
+                "xs": 1,
+                "s": 5,
+                "m": 7,
+                "l": 10,
+                "xl": 4
+            },
+            "color": "white",
+            "price": 320,
+            "discountOffer": false,
+            "discount": 0,
+            "image": [
+                "assets/images/products/emporio-armani/t-shirt-one-1.jpg",
+                "assets/images/products/emporio-armani/t-shirt-one-2.jpg",
+                "assets/images/products/emporio-armani/t-shirt-one-3.jpg",
+                "assets/images/products/emporio-armani/t-shirt-one-4.jpg",
+                "assets/images/products/emporio-armani/t-shirt-one-5.jpg"
+            ],
+            "description": "Klassik yaxalı qısaqol polo"
+        },
+        {
+            "id": 24,
+            "brand": "Emporio Armani",
+            "brandTitle": "emporio-armani",
+            "productCategory": "clothing",
+            "productName": "t-shirt",
+            "title": "emporio-armani-t-shirt",
+            "size": {
+                "xs": 1,
+                "s": 5,
+                "m": 7,
+                "l": 10,
+                "xl": 4
+            },
+            "color": "beige",
+            "price": 320,
+            "discountOffer": false,
+            "discount": 0,
+            "image": [
+                "assets/images/products/emporio-armani/t-shirt-two-1.jpg",
+                "assets/images/products/emporio-armani/t-shirt-two-2.jpg",
+                "assets/images/products/emporio-armani/t-shirt-two-3.jpg",
+                "assets/images/products/emporio-armani/t-shirt-two-4.jpg",
+                "assets/images/products/emporio-armani/t-shirt-two-5.jpg"
+            ],
+            "description": "Klassik yaxalı qısaqol polo"
+        },
+        {
             "id": 1,
             "brand": "Ralph Lauren",
             "brandTitle": "ralph-lauren",
@@ -14,7 +158,7 @@
                 "l": 0,
                 "xl": 1
             },
-            "color": "red",
+            "color": "blue",
             "price": 450,
             "discountOffer": true,
             "discount": 50,
@@ -23,8 +167,7 @@
                 "assets/images/products/ralph-lauren/t-shirt-one-2.jpg"
             ],
             "description": "Klassik yaxalı qısaqol polo"
-        }
-        ,
+        },
         {
             "id": 2,
             "brand": "Ralph Lauren",
@@ -75,10 +218,6 @@
             ],
             "description": "Loqo naxışlı uzunqol kardiqan"
         },
-
-
-
-
         {
             "id": 4,
             "brand": "Versace",
@@ -87,25 +226,25 @@
             "productName": "sport-shoes",
             "title": "versace-shoes",
             "size": {
-               "36":0,
-               "36.5":0,
-               "37":0,
-               "37.5":2,
-               "38":3,
-               "38.5":2,
-               "39":5,
-               "39.5":2,
-               "40":0,
-               "40.5":2,
-               "41":0,
-               "41.5":2,
-               "42":0,
-               "42.5":2,
-               "43":0,
-               "43.5":2,
-               "44":0,
-               "44.5":2,
-               "45":0
+                "36": 0,
+                "36.5": 0,
+                "37": 0,
+                "37.5": 2,
+                "38": 3,
+                "38.5": 2,
+                "39": 5,
+                "39.5": 2,
+                "40": 0,
+                "40.5": 2,
+                "41": 0,
+                "41.5": 2,
+                "42": 0,
+                "42.5": 2,
+                "43": 0,
+                "43.5": 2,
+                "44": 0,
+                "44.5": 2,
+                "45": 0
             },
             "color": "white",
             "price": 1150,
@@ -117,13 +256,9 @@
                 "assets/images/products/versace/sport-shoes-one-3.jpg",
                 "assets/images/products/versace/sport-shoes-one-4.jpg",
                 "assets/images/products/versace/sport-shoes-one-5.jpg"
-             
             ],
             "description": "Greca detallı krossovka"
         },
-        
-
-
         {
             "id": 5,
             "brand": "Coach",
@@ -133,22 +268,20 @@
             "title": "coach-bag",
             "size": {
                 "mini": 0,
-               "medium": 5,
-               "large": 0
-                
+                "medium": 5,
+                "large": 0
             },
             "color": "beige",
             "price": 835,
             "discountOffer": false,
             "discount": 0,
             "image": [
-                 "assets/images/products/coach/handbag-one-1.jpg",
-                 "assets/images/products/coach/handbag-one-2.jpg",
-                 "assets/images/products/coach/handbag-one-3.jpg"
+                "assets/images/products/coach/handbag-one-1.jpg",
+                "assets/images/products/coach/handbag-one-2.jpg",
+                "assets/images/products/coach/handbag-one-3.jpg"
             ],
             "description": "Çiyindən asma dəri Willow çantası"
-        }
-        ,
+        },
         {
             "id": 6,
             "brand": "Coach",
@@ -157,27 +290,25 @@
             "productName": "sport-shoes",
             "title": "coach-shoes",
             "size": {
-                "36" : 1,
-                "36.5" : 0,
-                "37" : 2,
-                "37.5" : 0,
-                "38" : 2,
-                "38.5" : 0,
+                "36": 1,
+                "36.5": 0,
+                "37": 2,
+                "37.5": 0,
+                "38": 2,
+                "38.5": 0,
                 "39": 0,
-                "39.5" : 0,
-                "40" : 1,
-                "40.5" : 0,
-                "41" : 0,
-                "41.5" : 0,
-                "42" : 0,
-                "42.5" : 0,
+                "39.5": 0,
+                "40": 1,
+                "40.5": 0,
+                "41": 0,
+                "41.5": 0,
+                "42": 0,
+                "42.5": 0,
                 "43": 0,
-                "43.5" : 0,
-                "44" : 0,
-                "44.5" : 0,
-                "45" : 0
-                
-
+                "43.5": 0,
+                "44": 0,
+                "44.5": 0,
+                "45": 0
             },
             "color": "black",
             "price": 430,
@@ -185,12 +316,10 @@
             "discount": 0,
             "image": [
                 "assets/images/products/coach/sport-shoes-two-1.jpg",
-                "assets/images/products/coach/sport-shoes-tw0-2.jpg"
+                "assets/images/products/coach/sport-shoes-two-2.jpg"
             ],
             "description": "Qara rəngli iplərlə bağlanma yarımboğaz krossovka"
-
         },
-
         {
             "id": 7,
             "brand": "Coach",
@@ -200,18 +329,17 @@
             "title": "coach-bag",
             "size": {
                 "mini": 0,
-               "medium": 0,
-               "large": 3
-                
+                "medium": 0,
+                "large": 3
             },
-            "color": "white",
+            "color": "beige",
             "price": 980,
             "discountOffer": true,
             "discount": 294,
             "image": [
-                 "assets/images/products/coach/handbag-three-1.jpg",
-                 "assets/images/products/coach/handbag-three-2.jpg",
-                 "assets/images/products/coach/handbag-three-3.jpg"
+                "assets/images/products/coach/handbag-three-1.jpg",
+                "assets/images/products/coach/handbag-three-2.jpg",
+                "assets/images/products/coach/handbag-three-3.jpg"
             ],
             "description": "Ağ rəngli dəri aşırma çantası"
         },
@@ -224,22 +352,20 @@
             "title": "coach-bag",
             "size": {
                 "mini": 2,
-               "medium": 0,
-               "large": 0
-                
+                "medium": 0,
+                "large": 0
             },
             "color": "black",
             "price": 690,
             "discountOffer": true,
             "discount": 100,
             "image": [
-                 "assets/images/products/coach/crossbody-bag-four-1.jpg",
-                 "assets/images/products/coach/crossbody-bag-four-2.jpg",
-                 "assets/images/products/coach/crossbody-bag-four-3.jpg"
+                "assets/images/products/coach/crossbody-bag-four-1.jpg",
+                "assets/images/products/coach/crossbody-bag-four-2.jpg",
+                "assets/images/products/coach/crossbody-bag-four-3.jpg"
             ],
             "description": "Qara rəngli dənəvari dəridən hazırlanmış çarpaz çiyin çantası"
         },
-
         {
             "id": 9,
             "brand": "Lancome",
@@ -253,11 +379,10 @@
             "discountOffer": false,
             "discount": 0,
             "image": [
-                 "assets/images/products/lancome/perfume-set-one-1.jpg"
+                "assets/images/products/lancome/perfume-set-one-1.jpg"
             ],
             "description": "Idole dəsti"
         },
-
         {
             "id": 10,
             "brand": "Lancome",
@@ -271,9 +396,8 @@
             "discountOffer": false,
             "discount": 0,
             "image": [
-                 "assets/images/products/lancome/perfume-set-two-1.jpg",
-                 "assets/images/products/lancome/perfume-set-two-2.jpg"
-                 
+                "assets/images/products/lancome/perfume-set-two-1.jpg",
+                "assets/images/products/lancome/perfume-set-two-2.jpg"
             ],
             "description": "La Vie Est Belle dəsti"
         },
@@ -286,18 +410,17 @@
             "title": "marc-jacobs-bag",
             "size": {
                 "mini": 0,
-               "medium": 0,
-               "large": 4
-                
+                "medium": 0,
+                "large": 4
             },
             "color": "black",
             "price": 435,
             "discountOffer": false,
             "discount": 0,
             "image": [
-                 "assets/images/products/marc-jacobs/wallet-one-1.jpg",
-                 "assets/images/products/marc-jacobs/wallet-one-2.jpg",
-                 "assets/images/products/marc-jacobs/wallet-one-3.jpg"
+                "assets/images/products/marc-jacobs/wallet-one-1.jpg",
+                "assets/images/products/marc-jacobs/wallet-one-2.jpg",
+                "assets/images/products/marc-jacobs/wallet-one-3.jpg"
             ],
             "description": "Loqo detallı portmone"
         },
@@ -310,19 +433,19 @@
             "title": "marc-jacobs-clothing",
             "size": {
                 "xs": 2,
-                "s" :2,
+                "s": 2,
                 "m": 1,
                 "l": 1,
-                "xl":0                
+                "xl": 0
             },
             "color": "black",
             "price": 2055,
             "discountOffer": true,
             "discount": 150,
             "image": [
-                 "assets/images/products/marc-jacobs/jacket-two-1.jpg",
-                 "assets/images/products/marc-jacobs/jacket-two-2.jpg",
-                 "assets/images/products/marc-jacobs/jacket-two-3.jpg"
+                "assets/images/products/marc-jacobs/jacket-two-1.jpg",
+                "assets/images/products/marc-jacobs/jacket-two-2.jpg",
+                "assets/images/products/marc-jacobs/jacket-two-3.jpg"
             ],
             "description": "Qısaldılmış uzunqol gödəkçə"
         },
@@ -335,24 +458,22 @@
             "title": "marc-jacobs-clothing",
             "size": {
                 "xs": 5,
-                "s" :3,
+                "s": 3,
                 "m": 4,
                 "l": 0,
-                "xl":0                
+                "xl": 0
             },
-
             "color": "white",
             "price": 425,
             "discountOffer": false,
             "discount": 0,
             "image": [
-                 "assets/images/products/marc-jacobs/t-shirt-three-1.jpg",
-                 "assets/images/products/marc-jacobs/t-shirt-three-2.jpg",
-                 "assets/images/products/marc-jacobs/t-shirt-three-3.jpg"
+                "assets/images/products/marc-jacobs/t-shirt-three-1.jpg",
+                "assets/images/products/marc-jacobs/t-shirt-three-2.jpg",
+                "assets/images/products/marc-jacobs/t-shirt-three-3.jpg"
             ],
             "description": "Böyük ölçülü loqo printli qısaqol T-shirt"
         },
- 
         {
             "id": 14,
             "brand": "Michael Kors",
@@ -362,24 +483,22 @@
             "title": "michael-kors-clothing",
             "size": {
                 "xs": 1,
-                "s" :1,
+                "s": 1,
                 "m": 2,
                 "l": 1,
-                "xl":1                
+                "xl": 1
             },
-
             "color": "black",
             "price": 1030,
             "discountOffer": true,
             "discount": 90,
             "image": [
-                 "assets/images/products/michael-kors/jacket-one-1.jpg",
-                 "assets/images/products/michael-kors/jacket-one-2.jpg",
-                 "assets/images/products/michael-kors/jacket-one-3.jpg"
+                "assets/images/products/michael-kors/jacket-one-1.jpg",
+                "assets/images/products/michael-kors/jacket-one-2.jpg",
+                "assets/images/products/michael-kors/jacket-one-3.jpg"
             ],
             "description": "Qara rəngli qısa dəri gödəkçə"
         },
-        
         {
             "id": 15,
             "brand": "Michael Kors",
@@ -388,19 +507,16 @@
             "productName": "watch",
             "title": "michael-kors-accessories",
             "count": 4,
-
             "color": "brown",
             "price": 380,
             "discountOffer": false,
             "discount": 0,
             "image": [
-                 "assets/images/products/michael-kors/watch-two-1.jpg",
-                 "assets/images/products/michael-kors/watch-two-2.jpg"
-                
+                "assets/images/products/michael-kors/watch-two-1.jpg",
+                "assets/images/products/michael-kors/watch-two-2.jpg"
             ],
             "description": "Kristalla bəzədilmiş Pyper qol saatı"
         },
-
         {
             "id": 16,
             "brand": "Michael Kors",
@@ -410,26 +526,20 @@
             "title": "michael-kors-bag",
             "size": {
                 "mini": 3,
-               "medium": 0,
-               "large": 0
-                
+                "medium": 0,
+                "large": 0
             },
-
             "color": "green",
             "price": 215,
             "discountOffer": false,
             "discount": 0,
             "image": [
-                 "assets/images/products/michael-kors/wallet-three-1.jpg",
-                 "assets/images/products/michael-kors/wallet-three-2.jpg",
-                 "assets/images/products/michael-kors/wallet-three-3.jpg"
-                
+                "assets/images/products/michael-kors/wallet-three-1.jpg",
+                "assets/images/products/michael-kors/wallet-three-2.jpg",
+                "assets/images/products/michael-kors/wallet-three-3.jpg"
             ],
             "description": "Loqo detallı dəri portmone"
         },
-
-        
-
         {
             "id": 17,
             "brand": "Emporio Armani",
@@ -516,6 +626,176 @@
                 "assets/images/products/lacoste/bag-one-4.webp"
             ],
             "description": ""
-        }
+        },
+        {
+            "id": 21,
+            "brand": "Nike",
+            "brandTitle": "nike",
+            "productCategory": "shoes",
+            "productName": "sport-shoes",
+            "title": "nike-sport-shoes",
+            "color": "grey",
+            "price": 450,
+            "discountOffer": false,
+            "discount": 0,
+            "size": {
+                "36": 1,
+                "36.5": 1,
+                "37": 2,
+                "37.5": 5,
+                "38": 2,
+                "38.5": 8,
+                "39": 9,
+                "39.5": 5,
+                "40": 1,
+                "40.5": 2,
+                "41": 9,
+                "41.5": 10,
+                "42": 11,
+                "42.5": 0,
+                "43": 0,
+                "43.5": 5,
+                "44": 7,
+                "44.5": 3,
+                "45": 2
+            },
+            "image": [
+                "assets/images/products/nike/sport-shoes-one-1.jpg",
+                "assets/images/products/nike/sport-shoes-one-2.jpg",
+                "assets/images/products/nike/sport-shoes-one-3.jpg",
+                "assets/images/products/nike/sport-shoes-one-4.jpg",
+                "assets/images/products/nike/sport-shoes-one-5.jpg",
+                "assets/images/products/nike/sport-shoes-one-6.jpg",
+                "assets/images/products/nike/sport-shoes-one-7.jpg",
+                "assets/images/products/nike/sport-shoes-one-8.jpg"
+            ],
+            "description": "Gələcəyə baxdıq və bu, çox gözəl olacaq. Nöqtə yüklü Air unit (hər addımınıza əmələ gələn yastıqlar) olan Air Max Scorpion Flyknit füturistik bir duyğuya çatdırır. Və görünüş sayımına görə, biz üst qatları olduqca yumşaq çenil tipli parça ilə düzəltmişik."
+        },
+        {
+            "id": 25,
+            "brand": "Valentino",
+            "brandTitle": "valentino",
+            "productCategory": "shoes",
+            "productName": "sport-shoes",
+            "title": "valentino-sport-shoes",
+            "color": "monogram",
+            "price": 240,
+            "discountOffer": false,
+            "discount": 0,
+            "size": {
+              "36": 1,
+              "36.5": 4,
+              "37": 0,
+              "37.5": 2,
+              "38": 2,
+              "38.5": 6,
+              "39": 2,
+              "39.5": 3,
+              "40": 4,
+              "40.5": 2,
+              "41": 9,
+              "41.5": 10,
+              "42": 4,
+              "42.5": 0,
+              "43": 0,
+              "43.5": 5,
+              "44": 15,
+              "44.5": 3,
+              "45": 2
+            },
+            "image": [
+              "assets/images/products/valentino/sport-shoes-one-1.jpg",
+              "assets/images/products/valentino/sport-shoes-one-2.jpg"
+           ],
+            "description": "Valentino Garavani Lacerunner krujeva və dəri detallı toru idman ayaqqabısı."
+          },
+          {
+              "id": 26,
+              "brand": "Valentino",
+              "brandTitle": "valentino",
+              "productCategory": "shoes",
+              "productName": "sport-shoes",
+              "title": "valentino-sport-shoes",
+              "color": "black",
+              "price": 480,
+              "discountOffer": true,
+              "discount": 50,
+              "size": {
+                "36": 1,
+                "36.5": 4,
+                "37": 0,
+                "37.5": 2,
+                "38": 3,
+                "38.5": 6,
+                "39": 1,
+                "39.5": 3,
+                "40": 4,
+                "40.5": 2,
+                "41": 7,
+                "41.5": 10,
+                "42": 4,
+                "42.5": 0,
+                "43": 0,
+                "43.5": 5,
+                "44": 6,
+                "44.5": 3,
+                "45": 8
+              },
+              "image": [
+                "assets/images/products/valentino/sport-shoes-two-1.jpg",
+                "assets/images/products/valentino/sport-shoes-two-2.jpg"
+             ],
+              "description": "Valentino Garavani Lacerunner krujeva və dəri detallı toru idman ayaqqabısı."
+            },
+            {
+              "id": 27,
+              "brand": "Valentino",
+              "brandTitle": "valentino",
+              "productCategory": "bag",
+              "productName": "wallet",
+              "title": "valentino-wallet",
+              "color": "purple",
+              "price": 160,
+              "discountOffer": false,
+              "discount": 0,
+              "size": {
+                "mini": 1,
+                "small": 4,
+                "medium": 0,
+                "large": 2,
+                "standart": 3
+              },
+              "image": [
+                "assets/images/products/valentino/wallet-one-1.jpg",
+                "assets/images/products/valentino/wallet-one-2.jpg",
+                "assets/images/products/valentino/wallet-one-3.jpg"
+             ],
+              "description": "Dəri detallı cins effektli Toile Iconographe jakkard parçadan Valentino Garavani Toile Iconographe pulqabı."
+            },
+            {
+              "id": 28,
+              "brand": "Charles&Keith",
+              "brandTitle": "charles-keith",
+              "productCategory": "bag",
+              "productName": "crossbody-bag",
+              "title": "charles-keith-crossbody-bag",
+              "color": "cream",
+              "price": 180,
+              "discountOffer": false,
+              "discount": 0,
+              "size": {
+                "xs": 0,
+                "s": 7,
+                "m": 3,
+                "l": 2,
+                "xl": 0
+              },
+              "image": [
+                "assets/images/products/charles-keith/crossbody-bag-one-1.jpg",
+                "assets/images/products/charles-keith/crossbody-bag-one-2.jpg",
+                "assets/images/products/charles-keith/crossbody-bag-one-3.jpg"
+             ],
+              "description": "Bu məhsul çəkiyə görə ən azı 20% davamlı materiallardan hazırlanır. CHARLES & KEITH ekoloji şüurlu kolleksiyamızda təkrar emal edilmiş, parçalana bilən, üzvi və su əsaslı materiallardan istifadə edir."
+            }
     ]
 }
